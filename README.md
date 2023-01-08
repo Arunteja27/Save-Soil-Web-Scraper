@@ -1,5 +1,5 @@
 # Save Soil Movement Web Scraper
-A Python web scraper bot which searches webpages for the world's government leaders contact information and sends them an email on the importance of saving soil.    
+A Python web scraper bot which searches webpages for hundreds of world's government leaders contact information and sends them an email on the importance of saving soil.    
 
 * Utilizes the SMTP and MIME protocols
 * Uses Google's SMTP email server
